@@ -1,6 +1,6 @@
-# {Hosana Joshua's Portfolio}
-#### {This is my first portfolio desined with the help of coding classes from Moringa School that has the basic details about myself in summary }, {This version is updated on 23rd April 2020}
-#### By **{Moringa School Technical Mentors,Google, Friends}**
+# Hosana Joshua's Portfolio
+#### This is my first portfolio desined with the help of coding classes from Moringa School that has the basic details about myself in summary , This version is updated on 23rd April 2020
+#### By **Moringa School Technical Mentors,Google, Friends**
 ## Description
 {This is a simple web page that ontains the basic info about myselfand also shares my contact details}
 ## Setup/Installation Requirements
